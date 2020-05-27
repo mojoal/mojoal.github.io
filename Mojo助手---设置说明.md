@@ -1,34 +1,34 @@
-Mojo助手---设置说明
+# Mojo助手---设置说明
 
-一、内挂设置说明
+## 一、内挂设置说明
 
-1、第一页
+#### 1、第一页
 
 ![](./index.assets/内挂1.png)
 
-2、第二页
+#### 2、第二页
 
 ![内挂2](./index.assets/内挂2.png)
 
-3、第三页---补给设置
+#### 3、第三页---补给设置
 
 ![内挂3](./index.assets/内挂3.png)
 
-二、Mojo辅助设置
+## 二、Mojo辅助设置
 
-1、挂机设置
+#### 1、挂机设置
 
 ![mojo挂机](./index.assets/mojo挂机.png)
 
-2、养宠设置
+#### 2、养宠设置
 
 ![mojo宠物](./index.assets/mojo宠物.png)
 
-3、打架设置
+#### 3、打架设置
 
 ![mojo打架](./index.assets/mojo打架.png)
 
-4、捐图-摆摊设置
+#### 4、捐图-摆摊设置
 
 ![mojo捐图](./index.assets/mojo捐图.png)
 
@@ -38,8 +38,9 @@ Mojo助手---设置说明
 
 
 
-三、Mojo辅助微信
+## 三、Mojo辅助微信
 
-Mojo-老哈：xinling074077
+Mojo-老哈（经销顾问）：xinling074077
 
-Mojo-一号客服：perfectymj
+Mojo-一号客服（技术顾问）：perfectymj
+
